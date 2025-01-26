@@ -9,12 +9,12 @@ body {
 }
 
 .container {
-    background: #007BFF; 
+    background: #007BFF; /* Blue background for the container */
     color: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
-    text-align: center; 
+    text-align: center; /* Center align text inside the container */
 }
 
 table {
@@ -30,7 +30,7 @@ input {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
-    color: #000; 
+    color: #000; /* Black text for the input fields */
 }
 
 button {
@@ -49,5 +49,5 @@ button:hover {
 #result {
     margin-top: 20px;
     font-weight: bold;
-    color: #fff; 
+    color: #fff; /* White text for the result */
 }
